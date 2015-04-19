@@ -29,6 +29,7 @@
 //
 
 #import "RHAddressBookThreadMain.h"
+#import "RHARCSupport.h"
 
 #import "RHAddressBook.h"
 

@@ -29,6 +29,7 @@
 //
 
 #import "RHAddressBook.h"
+#import "RHARCSupport.h"
 
 #import "RHRecord.h"
 #import "RHRecord_Private.h"

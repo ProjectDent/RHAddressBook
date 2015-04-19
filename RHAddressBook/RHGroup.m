@@ -34,6 +34,7 @@
 #import "RHAddressBook.h"
 #import "RHPerson.h"
 #import "RHSource.h"
+#import "RHARCSupport.h"
 
 
 @implementation RHGroup

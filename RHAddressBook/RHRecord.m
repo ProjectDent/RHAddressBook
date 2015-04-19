@@ -34,6 +34,7 @@
 #import "RHAddressBook.h"
 #import "RHAddressBook_private.h"
 #import "RHMultiValue.h"
+#import "RHARCSupport.h"
 
 @implementation RHRecord
 

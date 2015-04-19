@@ -33,6 +33,7 @@
 
 #import "RHAddressBook.h"
 #import "RHSource.h"
+#import "RHARCSupport.h"
 
 @implementation RHPerson
 

@@ -29,6 +29,7 @@
 //
 
 #import "RHAddressBookSharedServices.h"
+#import "RHARCSupport.h"
 
 #if RH_AB_INCLUDE_GEOCODING
 #if __IPHONE_OS_VERSION_MAX_ALLOWED >= 50000

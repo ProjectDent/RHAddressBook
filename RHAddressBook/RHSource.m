@@ -32,6 +32,7 @@
 
 #import "RHAddressBook.h"
 #import "NSThread+RHBlockAdditions.h"
+#import "RHARCSupport.h"
 
 @implementation RHSource 
 
